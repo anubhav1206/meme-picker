@@ -1,16 +1,16 @@
 # Meme Selector
-This project is a web application that displays relevant memes based on the user's selected mood. It is built using HTML, CSS, and JavaScript.
+The Meme Selector is a web-based application that helps users find amusing memes based on their current mood. The application is designed using HTML, CSS, and JavaScript, making it compatible with various web browsers.
 
 # Features
-The user can select their current mood from a radio button.
-Upon selection of a mood, the application displays a meme that is relevant to the selected mood.
+* Users can select their current mood using radio buttons.
+* The application then displays a relevant meme that corresponds to the selected mood.
 
 # Installation
-* Clone the repository or download the zip file.
-* Extract the zip file (if downloaded) and navigate to the project directory.
-* Open the index.html file in a web browser.
+* Download and extract the zip file or clone the repository.
+* Navigate to the project directory.
+* Open the index.html file in your preferred web browser.
 
 # Usage
- * Open the index.html file in a web browser.
- * Select your current mood from radio button.
- * Wait for the application to display a relevant meme.
+* Open the index.html file in your web browser.
+* Select your current mood using the radio buttons.
+* Wait for the application to display a corresponding meme.
